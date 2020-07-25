@@ -6,7 +6,7 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #212121;
+    background-color: hsla(0,0%,4%,.8);
 }
 
 .sm a
@@ -17,7 +17,7 @@ body
     height: 100px;
     line-height: 100px;
     text-align: center;
-    color:#33691E;
+    color:#778beb;
     margin: 0 26px;
     transition: .4s linear;
     position: relative;
